@@ -1,0 +1,13 @@
+{
+  "desktop": {
+    "version": "1.0.0",
+    "downloadUrl": "https://github.com/KarBlownForceNet/theshowclub-app/releases/latest",
+    "tag": "v1.0.0",
+    "repo": "KarBlownForceNet/theshowclub-app"
+  },
+  "extension": {
+    "version": "1.0.0",
+    "downloadUrl": "https://github.com/KarBlownForceNet/theshowclub-app/releases/latest"
+  },
+  "generatedAt": "1970-01-01T00:00:00.000Z"
+}
