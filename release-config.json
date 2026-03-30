@@ -1,0 +1,8 @@
+{
+  "githubOwner": "KarBlownForceNet",
+  "githubRepo": "theshowclub-app",
+  "versionsBranch": "main",
+  "publicRepoLocalPath": "../theshowclub-app",
+  "obfuscate": true,
+  "releaseNotes": "See companion hub changelog."
+}
