@@ -4,7 +4,7 @@ This repository houses downloadable files for the MLB Companion project, includi
 
 ## Downloads
 
-All downloadable files are available in the [Releases](https://github.com/your-username/mlb_the_show_repo/releases) section of this repository. Each release contains:
+All downloadable files are available in the [Releases](https://github.com/KarBlownForceNet/theshowclub-app/releases) section of this repository. Each release contains:
 
 - Windows installer (`MLB-Companion-Setup-<version>.exe`)
 
@@ -16,7 +16,7 @@ All downloadable files are available in the [Releases](https://github.com/your-u
 
 To download:
 
-1. Go to the [Releases](https://github.com/your-username/mlb_the_show_repo/releases) page
+1. Go to the [Releases](https://github.comKarBlownForceNet/theshowclub-app/releases) page
 
 2. Select the latest release (or the specific version you need)
 
