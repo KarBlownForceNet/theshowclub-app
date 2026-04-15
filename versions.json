@@ -1,13 +1,13 @@
 {
   "desktop": {
-    "version": "1.0.32",
-    "downloadUrl": "https://github.com/KarBlownForceNet/theshowclub-app/releases/download/v1.0.32/MLB-Companion-Setup-1.0.32.exe",
-    "tag": "v1.0.32",
+    "version": "1.0.33",
+    "downloadUrl": "https://github.com/KarBlownForceNet/theshowclub-app/releases/download/v1.0.33/MLB-Companion-Setup-1.0.33.exe",
+    "tag": "v1.0.33",
     "repo": "KarBlownForceNet/theshowclub-app"
   },
   "extension": {
-    "version": "1.0.32",
-    "downloadUrl": "https://github.com/KarBlownForceNet/theshowclub-app/releases/download/v1.0.32/mlb-companion-extension-1.0.32.zip"
+    "version": "1.0.33",
+    "downloadUrl": "https://github.com/KarBlownForceNet/theshowclub-app/releases/download/v1.0.33/mlb-companion-extension-1.0.33.zip"
   },
-  "generatedAt": "2026-04-14T05:52:56.638Z"
+  "generatedAt": "2026-04-15T03:14:48.822Z"
 }
